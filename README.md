@@ -27,7 +27,6 @@ Generate grounded analytical insights with validated SQL, Python execution, and 
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/SQL-DUCKDB-FACC15?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MIT](https://img.shields.io/badge/LICENSE-MIT-97CA00?style=for-the-badge)
 
 </div>
 
@@ -302,11 +301,6 @@ This project demonstrates practical AI engineering concepts including:
 - MCP-based tool integration
 - Reflection and retry mechanisms
 - Interactive analytics and reporting
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
 
 ## 👨‍💻 Author
 
