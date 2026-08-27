@@ -221,7 +221,8 @@ autonomous-data-analyst-agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Aditya-Indurkhya/DataAgent-Pro.git\r\ncd DataAgent-Pro
+git clone https://github.com/Adityaindurkhya/DataAgentPro.git
+cd DataAgent-Pro
 ```
 
 ### 2. Start PostgreSQL
@@ -306,4 +307,6 @@ This project demonstrates practical AI engineering concepts including:
 
 **Aditya Indurkhya**
 
-Master of Science in Data Analytics Engineering | B.Tech in Computer Science Engineering\r\n\r\n[![GitHub](https://img.shields.io/badge/GitHub-Aditya--Indurkhya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Indurkhya)
+Master of Science in Data Analytics Engineering | B.Tech in Computer Science Engineering
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya--Indurkhya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Indurkhya)
